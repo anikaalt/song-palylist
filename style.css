@@ -1,0 +1,36 @@
+body
+{
+background-size: cover;
+}
+
+.head1
+{
+font-size: 30px;
+color: #4f67ab;
+}
+
+.note
+{
+    font-size: 25px;
+    color: #322776;
+}
+.speed
+{
+    float: left;
+    
+}
+.volume 
+{
+    float: right;
+}
+
+#div_speed
+{
+    border-radius: 100px;
+    width: 200px;
+}
+#div_volume
+{
+    border-radius: 100px;
+    width: 200px;
+}
